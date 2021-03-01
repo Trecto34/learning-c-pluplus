@@ -12,7 +12,3 @@ int main()
     cout << "MEDIA = " << ((a * 3.5) + (b * 7.5)) / (3.5 + 7.5) << endl;
     return 0;
 }
-
-//  cout << fixed << endl;
-//  cout << setprecision(4) << endl;
-//  cout << d << endl;
